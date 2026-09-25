@@ -17,8 +17,8 @@ Welcome to the **ModelArt Platform**, a specialized e-commerce and community-dri
 
 ## 🛠️ Technology Stack (Recommended)
 
-*   **Frontend**: Next.js / React (for SEO-friendly dynamic galleries and smooth UI transitions) or Vue.js 3.
-*   **Backend**: Node.js (NestJS or Express) or Go for high-performance handling of pre-order drops and traffic spikes.
+*   **Frontend**: Next.js / React (for SEO-friendly dynamic galleries and smooth UI transitions)
+*   **Backend**: Grit Go for high-performance handling of pre-order drops and traffic spikes.
 *   **Database & Storage**: PostgreSQL (relational data for orders, users, and multi-variant items) and AWS S3 / Cloudflare R2 (for high-res imagery and digital STL downloads).
 *   **Payment & Escrow**: Stripe / PayPal integration supporting split payments and deposit-based billing.
 
