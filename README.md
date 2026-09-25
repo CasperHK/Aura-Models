@@ -1,4 +1,5 @@
-# ModelArt & Garage Kit E-Commerce Platform 
+# 靈氣模魂
+## ModelArt & Garage Kit E-Commerce Platform 
 
 Welcome to the **ModelArt Platform**, a specialized e-commerce and community-driven marketplace built specifically for model hobbyists, garage kit collectors, pro-painters, and 3D digital sculptors. 
 
